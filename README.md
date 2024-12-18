@@ -41,27 +41,6 @@ I'm **Alibek**, a **Golang/Python Developer** with experience in creating scalab
 *April 2023 – June 2023*  
 - Automated data workflows using Python and Pandas, streamlining research processes.  
 - Designed and implemented APIs with Flask to support data interaction.  
-
----
-
-## 🌱 Currently Exploring  
-
-- Advanced backend architectures (gRPC, event-driven systems)  
-- Scalable and distributed system designs  
-- Exploring front-end tools to complement backend expertise  
-
----
-
-## 📄 Certifications  
-
-- **Tech Orda (Astana Hub)** – Python Backend Developer (October 2022 – May 2023)   
-
----
-
-## 🤝 Collaboration  
-
-I'm open to collaborating on backend projects, microservices, or automation tools. If you have an exciting project in mind, feel free to reach out!  
-
 ---
 
 ## 📫 Get in Touch  
@@ -70,7 +49,3 @@ I'm open to collaborating on backend projects, microservices, or automation tool
 - **GitHub:** [Gontafi](https://github.com/Gontafi)  
 - **Telegram:** [@Gontafi](https://t.me/Gontafi)  
 - **LinkedIn:** [gontafi](https://www.linkedin.com/in/gontafi/)  
-
----
-
-⚡ **Fun Fact:** I'm multilingual! I speak Kazakh (native), Russian (C1), and English (B1). When I'm not coding, I enjoy exploring tech blogs, learning about new frameworks, and contributing to open-source projects.  
